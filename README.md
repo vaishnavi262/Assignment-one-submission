@@ -1,2 +1,2 @@
-# Assignment-one-submission
-this is my assignment one by LetsUpgrade
+# day one notebook by LetsUpgrade
+this is al about day one learning
